@@ -1,0 +1,8 @@
+/*Como configurar e executar os exercícios*/
+
+// INSTALAR O NODE NO PC ATRAVÉS DO LINK https://nodejs.org/en/download/package-manager
+
+// No terminal integrado do VSCode, execute o comando -> node -v -> para verificar versão do node ou se tem instalado
+
+// No terminal instegrado, execute o comando para executar o exercício -> node + nome_do_arquivo -> node exercicios.js
+
