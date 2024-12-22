@@ -1,0 +1,58 @@
+/codifica
+Formação Desenvolvedor Full Stack Júnior
+
+2º MÓDULO - GIT & GITHUB - +PraTi
+---------------------------------------------------------------
+
+18ª AULA Introdução ao Git e Github 02:57:41 minutos
+
+
+Criar conta no github 
+
+github.com
+
+Baixar Git 
+
+Next - Selecionar o vscode como IDE - next. 
+
+
+CRIAÇÃO DE REPOSITÓRIO E CONFIGURAÇÃO DE USUÁRIO
+
+Configurando determinada pasta como um repositório Git
+
+- CRIAR PASTA E COM BOTÃO DIREITO DO MOUSE EM OPEN GIT BASH HERE 
+
+- COMANDOS: 
+
+git init 
+
+ - Configurando seu nome de usuário 
+
+git config --global user.email "<seu e-mail">
+
+- Configurando seu email de usuário 
+
+git config --global user.name "<seu nome>"
+
+
+CRIAR UM REPOSITÓRIO NO GITHUB E EM code HTTPS COPIAR E ADICIONAR O COMANDO:
+
+git remote add origin https://github.com/anandamayra1506/maispraTi.git
+
+
+- PARA SABER QUAL O REPOSITÓRIO:
+
+git remote get-url origin
+
+
+---------------------------------------------------------------
+
+19ª AULA - 
+
+
+---------------------------------------------------------------
+
+20ª AULA - 
+
+
+---------------------------------------------------------------
